@@ -1,4 +1,4 @@
-# PLEASE NOTE, THIS PROJECT IS NO LONGER BEING MAINTAINED
+This project is based on https://github.com/chrisbanes/Android-PullToRefresh project with the changes that makes it easier to incorporate into your main projetct (i.e. project assets renamed etc).
 
 * * *
 
